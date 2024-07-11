@@ -4,8 +4,7 @@ The main aim of designing and developing this Internet Banking System Java-based
 
 <img src="https://github.com/user-attachments/assets/c1094110-a95c-4d39-831f-b5ea853e69b3" width="500" height="400" />
 
-<img src="https://github.com/user-attachments/assets/8f27d430-3223-4313-94af-e704bebca24e" width="400" height="400" />
-<img src="https://github.com/user-attachments/assets/36560d47-5f49-4008-b4ea-5a3e94c208a0" width="400" height="400"/>
+<img src="https://github.com/user-attachments/assets/8f27d430-3223-4313-94af-e704bebca24e" width="400" height="400" /> <img src="https://github.com/user-attachments/assets/36560d47-5f49-4008-b4ea-5a3e94c208a0" width="400" height="400"/>
 <img src="https://github.com/user-attachments/assets/a1bed093-81fd-4ad4-a38c-b1495040a340" width="400" height="400"/>
 <img src="https://github.com/user-attachments/assets/ba99e828-1478-4f11-85ed-609db0140359" width="400" height="400"/>
 <img src="https://github.com/user-attachments/assets/65654a67-8630-4c6a-b44e-9d74ef5f2160" width="400" height="400"/>
