@@ -1,8 +1,8 @@
 # Internet Banking System
 The main aim of designing and developing this Internet Banking System Java-based engineering project is to provide secure and efficient net banking facilities to banking customers over the internet. Apache Server Pages and MySQL database are used to develop this banking application where all banking customers can log in through the secured web page using their account login ID and password. Users will have all options and features in the application, such as receiving money from Western Union, transferring money to others, and sending money to inter-bank as well as other banking customers by simply adding them as payees.
-<img src="https://github.com/user-attachments/assets/6498d61e-615a-4c4d-8f32-163b18964416" width="500" height="400" /> <img src="https://github.com/user-attachments/assets/6ae85f24-25d3-433b-84df-493c11cc8954" width="500" height="400" />
+<img src="https://github.com/user-attachments/assets/6498d61e-615a-4c4d-8f32-163b18964416" width="400" height="400" /> <img src="https://github.com/user-attachments/assets/6ae85f24-25d3-433b-84df-493c11cc8954" width="400" height="400" />
 
-<img src="https://github.com/user-attachments/assets/c1094110-a95c-4d39-831f-b5ea853e69b3" width="500" height="400" />
+<img src="https://github.com/user-attachments/assets/c1094110-a95c-4d39-831f-b5ea853e69b3" width="400" height="400" />
 
 <img src="https://github.com/user-attachments/assets/8f27d430-3223-4313-94af-e704bebca24e" width="400" height="400" /> <img src="https://github.com/user-attachments/assets/36560d47-5f49-4008-b4ea-5a3e94c208a0" width="400" height="400"/>
 <img src="https://github.com/user-attachments/assets/a1bed093-81fd-4ad4-a38c-b1495040a340" width="400" height="400"/>
