@@ -1,3 +1,8 @@
+![image](https://github.com/user-attachments/assets/55922800-5b06-454b-974f-5714c06fb325)
+
+
+
+
 # Internet Banking System
 The main aim of designing and developing this Internet Banking System Java-based engineering project is to provide secure and efficient net banking facilities to banking customers over the internet. Apache Server Pages and MySQL database are used to develop this banking application where all banking customers can log in through the secured web page using their account login ID and password. Users will have all options and features in the application, such as receiving money from Western Union, transferring money to others, and sending money to inter-bank as well as other banking customers by simply adding them as payees.
 
